@@ -1,0 +1,9 @@
+# Created by https://www.gitignore.io/api/particle
+
+### Particle ###
+# Compiled output #
+
+###################
+
+*.bin
+# End of https://www.gitignore.io/api/particle
