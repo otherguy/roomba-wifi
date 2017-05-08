@@ -20,11 +20,11 @@ The [Particle Photon](https://www.particle.io/products/hardware/photon-wifi-dev-
 
 Make sure that your microcontroller has the latest firmware. [Here is a guide](https://docs.particle.io/support/troubleshooting/firmware-upgrades/photon/) on how to update the firmware for the Particle Photon.
 
-### [Adafruit Feather M0 WiFi](https://www.adafruit.com/product/3010) or [Adafruit Feather HUZZAH](https://www.adafruit.com/product/2821)
+#### [Adafruit Feather M0 WiFi](https://www.adafruit.com/product/3010) or [Adafruit Feather HUZZAH](https://www.adafruit.com/product/2821)
 
 Since the Feather M0 and the HUZZAH are Arduino compatible, the code should also work with only minor adaptions.
 
-### Raw ESP8266 Board
+#### Raw ESP8266 Board
 
 Same goes for a raw ESP8266 WiFi microcontroller board, although personally my experience with these is very limited. I always appreciate feedback or pull-requests!
 
