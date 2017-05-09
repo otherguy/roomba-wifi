@@ -63,6 +63,9 @@ It's a good starting point to understand the connections to the microcontroller 
 
 ### Breadboard Setup
 
+[Fritzing Source](src/breadboard.fzz)
+
+[![Breadboard](img/breadboard.png)](src/breadboard.fzz)
 
 ## Caveats and Issues
 
