@@ -1,3 +1,6 @@
+[![license](https://img.shields.io/github/license/darkwinternight/roomba-wifi.svg?style=flat-square)]()
+[![Beerpay](https://img.shields.io/beerpay/darkwinternight/roomba-wifi.svg?style=flat-square)](https://beerpay.io/darkwinternight/roomba-wifi)
+
 # Cloud Connected Roomba 5xx
 
 Connect a Roomba® 581 to the Cloud with a Particle Photon
@@ -40,7 +43,9 @@ Same goes for a raw ESP8266 WiFi microcontroller board, although personally my e
 5	DD		Device Detect Input (active low), can be used to wake Roomba from sleep
 6	GND		Roomba battery ground
 7	GND		
+
 ## Support on Beerpay
-Hey dude! Help me out for a couple of :beers:!
+
+If this is useful to you in any way, you can buy me a :beer:!
 
 [![Beerpay](https://beerpay.io/darkwinternight/roomba-wifi/badge.svg?style=beer-square)](https://beerpay.io/darkwinternight/roomba-wifi)  [![Beerpay](https://beerpay.io/darkwinternight/roomba-wifi/make-wish.svg?style=flat-square)](https://beerpay.io/darkwinternight/roomba-wifi?focus=wish)
