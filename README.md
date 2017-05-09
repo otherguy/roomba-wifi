@@ -1,9 +1,12 @@
 [![license](https://img.shields.io/github/license/darkwinternight/roomba-wifi.svg?style=flat-square)]()
 [![Beerpay](https://img.shields.io/beerpay/darkwinternight/roomba-wifi.svg?style=flat-square)](https://beerpay.io/darkwinternight/roomba-wifi)
+[![Issues](https://img.shields.io/github/issues-raw/badges/darkwinternight/roomba-wifi.svg?style=flat-square)](https://github.com/darkwinternight/roomba-wifi/issues)
+[![Maintenance](https://img.shields.io/maintenance/yes/2017.svg?style=flat-square)](https://darkwinternight.github.io/roomba-wifi/)
+[![Documentation](https://img.shields.io/badge/documentation-GitHub%20Pages-ff69b4.svg)](https://darkwinternight.github.io/roomba-wifi/)
 
 # Cloud Connected Roomba 5xx
 
-Connect a Roomba 581 to the Cloud with a Particle Photon
+Connect a Roomba 581 to the Cloud with a [Particle Photon](https://www.particle.io/products/hardware/photon-wifi-dev-kit).
 
 ## Hardware
 
@@ -47,7 +50,7 @@ This connector provides two-way, serial communication at TTL (`0V` – `5V`) lev
 | `6` | `GND`  | Roomba battery ground                              |
 | `7` | `GND`  |                                                    |
 
-<sup>1</sup> The DD input is used to wake Roomba from sleep. See [Caveats and Issues](#caveats-and-issues) if this does not work for your Roomba.
+<sup>1</sup> The `DD` pin is used to wake Roomba from sleep. See [Caveats and Issues](#caveats-and-issues) if this does not work for your Roomba.
 
 ## Open Interface
 
