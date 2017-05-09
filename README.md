@@ -40,3 +40,7 @@ Same goes for a raw ESP8266 WiFi microcontroller board, although personally my e
 5	DD		Device Detect Input (active low), can be used to wake Roomba from sleep
 6	GND		Roomba battery ground
 7	GND		
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/darkwinternight/roomba-wifi/badge.svg?style=beer-square)](https://beerpay.io/darkwinternight/roomba-wifi)  [![Beerpay](https://beerpay.io/darkwinternight/roomba-wifi/make-wish.svg?style=flat-square)](https://beerpay.io/darkwinternight/roomba-wifi?focus=wish)
