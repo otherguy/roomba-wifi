@@ -1,8 +1,8 @@
 [![license](https://img.shields.io/github/license/darkwinternight/roomba-wifi.svg?style=flat-square)]()
 [![Beerpay](https://img.shields.io/beerpay/darkwinternight/roomba-wifi.svg?style=flat-square)](https://beerpay.io/darkwinternight/roomba-wifi)
-[![Issues](https://img.shields.io/github/issues-raw/badges/darkwinternight/roomba-wifi.svg?style=flat-square)](https://github.com/darkwinternight/roomba-wifi/issues)
+[![Issues](https://img.shields.io/github/issues/darkwinternight/roomba-wifi.svg?style=flat-square)](https://github.com/darkwinternight/roomba-wifi/issues)
 [![Maintenance](https://img.shields.io/maintenance/yes/2017.svg?style=flat-square)](https://darkwinternight.github.io/roomba-wifi/)
-[![Documentation](https://img.shields.io/badge/documentation-GitHub%20Pages-ff69b4.svg)](https://darkwinternight.github.io/roomba-wifi/)
+[![Documentation](https://img.shields.io/badge/documentation-GitHub%20Pages-ff69b4.svg?style=flat-square)](https://darkwinternight.github.io/roomba-wifi/)
 
 # Cloud Connected Roomba 5xx
 
