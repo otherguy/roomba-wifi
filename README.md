@@ -44,6 +44,16 @@ Same goes for a raw ESP8266 WiFi microcontroller board, although personally my e
 6	GND		Roomba battery ground
 7	GND		
 
+## Caveats and Issues
+
+### My Roomba® does not wake up
+
+For Roomba® models that have no wake up input on pin 5 of the external connector, you can connect the Particle Photon to the clean button input and control this from the microcontroller. The code needs to be changed for this to work.
+q
+Connect the Particle Photon's `D0` pin to the Roomba®'s *Clean* button through an 8K Ω resistor.
+
+![Roomba® Clean Button](img/clean-button.png)
+
 ## Support on Beerpay
 
 If this is useful to you in any way, you can buy me a :beer:!
