@@ -36,17 +36,21 @@ Same goes for a raw ESP8266 WiFi microcontroller board, although personally my e
 
 ## Mini-DIN 7 Pinout
 
-1	Vpwr	Roomba battery positive (unregulated -- 15.5 - 18V)
-2	Vpwr
-3	RXD		0 - 5V Serial Input to Roomba
-4	TXT		0 - 5V Serial Output from Roomba
-5	DD		Device Detect Input (active low), can be used to wake Roomba from sleep
-6	GND		Roomba battery ground
-7	GND		
+| Pin | Name | Description
+|-----|------|--------------------------------------------------|
+|  1  | Vpwr | Roomba® battery `+` (unregulated `15.5V -- 18V`) |
+|  2  | Vpwr |                                                  |
+|  3  | RXD  | 0 - 5V Serial Input to Roomba®                   |
+|  4  | TXT  | 0 - 5V Serial Output from Roomba®                |
+|  5  | DD   | Device Detect Input (active low) <sup>1</sup>    |
+|  6  | GND  | Roomba battery ground                            |
+|  7  | GND  |                                                  |
+
+<sup>1</sup> The DD input is used to wake Roomba® from sleep. See [Caveats and Issues](#caveats-and-issues) if this does not work for your Roomba®.
 
 ## Caveats and Issues
 
-### My Roomba® does not wake up
+### Roomba® does not wake up from sleep
 
 For Roomba® models that have no wake up input on pin 5 of the external connector, you can connect the Particle Photon to the clean button input and control this from the microcontroller. The code needs to be changed for this to work.
 
@@ -56,6 +60,6 @@ Connect the Particle Photon's `D0` pin to the Roomba®'s *Clean* button through 
 
 ## Support on Beerpay
 
-If this is useful to you in any way, you can buy me a :beer:!
+If this is useful to you in any way or you end up building it yourself, you could buy me a beer! I would also appreciate build reports or photos of your cloud-connected Roombas!
 
 [![Beerpay](https://beerpay.io/darkwinternight/roomba-wifi/badge.svg?style=beer-square)](https://beerpay.io/darkwinternight/roomba-wifi)  [![Beerpay](https://beerpay.io/darkwinternight/roomba-wifi/make-wish.svg?style=flat-square)](https://beerpay.io/darkwinternight/roomba-wifi?focus=wish)
