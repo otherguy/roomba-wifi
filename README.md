@@ -37,14 +37,14 @@ Same goes for a raw ESP8266 WiFi microcontroller board, although personally my e
 ## Mini-DIN 7 Pinout
 
 | Pin | Name | Description
-|-----|------|--------------------------------------------------|
-|  1  | Vpwr | Roomba® battery `+` (unregulated `15.5V -- 18V`) |
-|  2  | Vpwr |                                                  |
-|  3  | RXD  | 0 - 5V Serial Input to Roomba®                   |
-|  4  | TXT  | 0 - 5V Serial Output from Roomba®                |
-|  5  | DD   | Device Detect Input (active low) <sup>1</sup>    |
-|  6  | GND  | Roomba battery ground                            |
-|  7  | GND  |                                                  |
+|-----|------|----------------------------------------------------|
+|  1  | Vpwr | Roomba® battery `+` (unregulated `15.5V` to `18V`) |
+|  2  | Vpwr |                                                    |
+|  3  | RXD  | 0 - 5V Serial Input to Roomba®                     |
+|  4  | TXT  | 0 - 5V Serial Output from Roomba®                  |
+|  5  | DD   | Device Detect Input (active low) <sup>1</sup>      |
+|  6  | GND  | Roomba battery ground                              |
+|  7  | GND  |                                                    |
 
 <sup>1</sup> The DD input is used to wake Roomba® from sleep. See [Caveats and Issues](#caveats-and-issues) if this does not work for your Roomba®.
 
