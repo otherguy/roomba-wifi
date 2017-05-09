@@ -37,15 +37,15 @@ Most Roombas, up to the new [Roomba 900 Series](http://www.irobot.com/For-the-Ho
 
 This connector provides two-way, serial communication at TTL (`0V` – `5V`) levels. The connector also provides an unregulated direct connection to Roomba’s battery, which you can use to power the OI applications. The Mini-DIN connector is located on the top of Roomba, beneath the snap-on decorative cover.
 
-| Pin | Name | Description                                        |
-|-----|------|----------------------------------------------------|
-|  1  | Vpwr | Roomba battery `+` (unregulated `15.5V` – `18V`)  |
-|  2  | Vpwr |                                                    |
-|  3  | RXD  | `0V` – `5V` Serial Input to Roomba                |
-|  4  | TXD  | `0V` – `5V` Serial Output from Roomba             |
-|  5  | DD   | Device Detect Input (active low) <sup>1</sup>      |
-|  6  | GND  | Roomba battery ground                              |
-|  7  | GND  |                                                    |
+| Pin | Name   | Description                                        |
+|-----|--------|----------------------------------------------------|
+| `1` | `Vpwr` | Roomba battery `+` (unregulated `15.5V` – `18V`)   |
+| `2` | `Vpwr` |                                                    |
+| `3` | `RXD`  | `0V` – `5V` Serial Input to Roomba                 |
+| `4` | `TXD`  | `0V` – `5V` Serial Output from Roomba              |
+| `5` | `DD`   | Device Detect Input (active low) <sup>1</sup>      |
+| `6` | `GND`  | Roomba battery ground                              |
+| `7` | `GND`  |                                                    |
 
 <sup>1</sup> The DD input is used to wake Roomba from sleep. See [Caveats and Issues](#caveats-and-issues) if this does not work for your Roomba.
 
