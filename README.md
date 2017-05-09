@@ -8,7 +8,8 @@
 
 Connect a Roomba 581 to the Cloud with a [Particle Photon](https://www.particle.io/products/hardware/photon-wifi-dev-kit).
 
-## Hardware
+
+## Prerequisites
 
 ### Roomba
 
@@ -34,7 +35,9 @@ Since the Feather M0 and the HUZZAH are Arduino compatible, the code should also
 
 Same goes for a raw ESP8266 WiFi microcontroller board, although personally my experience with these is very limited. I always appreciate feedback or pull-requests!
 
-## Roomba Mini-DIN 7 Pinout
+## Hardware Build
+
+### Roomba Mini-DIN 7
 
 Most Roombas, up to the new [Roomba 900 Series](http://www.irobot.com/For-the-Home/Support/Product-Resources/Roomba-900-Resources.aspx) does no longer have an SCI Mini-DIN 7 port with serial `RX`/`TX` pins that can be used to communicate with Roomba over the [OI](#open-interface).
 
@@ -52,11 +55,14 @@ This connector provides two-way, serial communication at TTL (`0V` – `5V`) lev
 
 <sup>1</sup> The `DD` pin is used to wake Roomba from sleep. See [Caveats and Issues](#caveats-and-issues) if this does not work for your Roomba.
 
-## Open Interface
+### Open Interface
 
 iRobot® has provided a great specification document for the Open Interface: [iRobot® Roomba 500 Open Interface (OI) Specification](doc/iRobot_Roomba_500_Open_Interface_Spec.pdf)
 
 It's a good starting point to understand the connections to the microcontroller and how to send commands to Roomba.
+
+### Breadboard Setup
+
 
 ## Caveats and Issues
 
