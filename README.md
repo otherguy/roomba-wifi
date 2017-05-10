@@ -1,4 +1,4 @@
-[![Documentation](https://img.shields.io/badge/documentation-GitHub%20Pages-B0199F.svg?style=flat-square)](https://darkwinternight.github.io/roomba-wifi/)
+[![Documentation](https://img.shields.io/badge/documentation-gh-pages-B0199F.svg?style=flat-square)](https://darkwinternight.github.io/roomba-wifi/)
 [![License](https://img.shields.io/github/license/darkwinternight/roomba-wifi.svg?style=flat-square)](https://github.com/darkwinternight/roomba-wifi/blob/master/LICENSE.md)
 [![Beerpay](https://img.shields.io/beerpay/darkwinternight/roomba-wifi.svg?style=flat-square)](https://beerpay.io/darkwinternight/roomba-wifi)
 [![Issues](https://img.shields.io/github/issues/darkwinternight/roomba-wifi.svg?style=flat-square)](https://github.com/darkwinternight/roomba-wifi/issues)
