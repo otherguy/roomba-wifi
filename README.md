@@ -1,4 +1,4 @@
-[![Maintained: yes](https://img.shields.io/maintenance/yes/2017.svg?style=flat-square)](https://darkwinternight.github.io/roomba-wifi/)
+[![Maintained: yes](https://img.shields.io/maintenance/yes/2017.svg?style=flat-square)](https://roomba-wifi.basecamp.tirol)
 [![License: MIT](https://img.shields.io/github/license/darkwinternight/roomba-wifi.svg?style=flat-square)](https://github.com/darkwinternight/roomba-wifi/blob/master/LICENSE.md)
 [![Beerpay](https://img.shields.io/beerpay/darkwinternight/roomba-wifi.svg?style=flat-square)](https://beerpay.io/darkwinternight/roomba-wifi)
 [![Issues](https://img.shields.io/github/issues/darkwinternight/roomba-wifi.svg?style=flat-square)](https://github.com/darkwinternight/roomba-wifi/issues)
@@ -73,7 +73,7 @@ It's a good starting point to understand the connections to the microcontroller 
 
 For Roomba models that have no wake up input on pin 5 of the external connector, you can connect the Particle Photon to the clean button input and control this from the microcontroller. The code needs to be changed for this to work.
 
-Connect the Particle Photon's `D0` pin to the Roomba's *Clean* button through an 8K Ω resistor.
+Connect the Particle Photon's `D0` pin to the Roomba's *Clean* button through an 8K Ω resistor.
 
 ![Roomba Clean Button](img/clean-button.png)
 
