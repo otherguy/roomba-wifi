@@ -8,6 +8,18 @@
 
 Connect a Roomba 581 to the Cloud with a [Particle Photon](https://www.particle.io/products/hardware/photon-wifi-dev-kit).
 
+## Donate
+
+Making a donation is an act of generosity. Your support, however modest it might be, help to continue to support and improve this project!
+
+Your queries will be given the highest priority, and you will be credited in the source code as a generous donor.
+
+- ![Paypal](https://fx-rate.net/images/favi_transfer/paypal.com.png) Paypal: [Donate](https://www.paypal.me/basecamptirol)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Flattr-Logo.svg/2000px-Flattr-Logo.svg.png" 
+alt="Flattr" width="16" height="16"> Flattr: [Donate](https://flattr.com/@basecamp.tirol)
+- ![Bitcoin](https://files.coinmarketcap.com/static/img/coins/16x16/bitcoin.png) Bitcoin: `1Kz88Erut22xptZP8vW6tm5ZH2pFWv9i4L`
+- ![Litecoin](https://files.coinmarketcap.com/static/img/coins/16x16/litecoin.png) Litecoin: `LNKP4XvL9mj33HHpFvLxEAWUckAV7FHs9s`
+- ![Ethereum](https://files.coinmarketcap.com/static/img/coins/16x16/ethereum-lite.png) Ethereum: `0x9Bf203BE312c8FFD8967bD908C292e3b26B3b94f`
 
 ## Prerequisites
 
