@@ -1,4 +1,4 @@
-[![Maintained: yes](https://img.shields.io/maintenance/yes/2017.svg?style=flat-square)](https://roomba-wifi.basecamp.tirol)
+[![Maintained: yes](https://img.shields.io/maintenance/yes/2018.svg?style=flat-square)](https://roomba-wifi.basecamp.tirol)
 [![License: MIT](https://img.shields.io/github/license/darkwinternight/roomba-wifi.svg?style=flat-square)](https://github.com/darkwinternight/roomba-wifi/blob/master/LICENSE.md)
 [![Beerpay](https://img.shields.io/beerpay/darkwinternight/roomba-wifi.svg?style=flat-square)](https://beerpay.io/darkwinternight/roomba-wifi)
 [![Issues](https://img.shields.io/github/issues/darkwinternight/roomba-wifi.svg?style=flat-square)](https://github.com/darkwinternight/roomba-wifi/issues)
@@ -14,12 +14,11 @@ Making a donation is an act of generosity. Your support, however modest it might
 
 Your queries will be given the highest priority, and you will be credited in the source code as a generous donor.
 
-- ![Paypal](https://fx-rate.net/images/favi_transfer/paypal.com.png) Paypal: [Donate](https://www.paypal.me/basecamptirol)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Flattr-Logo.svg/2000px-Flattr-Logo.svg.png" 
-alt="Flattr" width="16" height="16"> Flattr: [Donate](https://flattr.com/@basecamp.tirol)
-- ![Bitcoin](https://files.coinmarketcap.com/static/img/coins/16x16/bitcoin.png) Bitcoin: `1Kz88Erut22xptZP8vW6tm5ZH2pFWv9i4L`
-- ![Litecoin](https://files.coinmarketcap.com/static/img/coins/16x16/litecoin.png) Litecoin: `LNKP4XvL9mj33HHpFvLxEAWUckAV7FHs9s`
-- ![Ethereum](https://files.coinmarketcap.com/static/img/coins/16x16/ethereum-lite.png) Ethereum: `0x9Bf203BE312c8FFD8967bD908C292e3b26B3b94f`
+- <img src="assets/img/paypal.svg" alt="PayPal" width="16" height="16"> Paypal: [Donate](https://www.paypal.me/basecamptirol)
+- <img src="assets/img/flattr.svg" alt="Flattr" width="16" height="16"> Flattr: [Donate](https://flattr.com/@basecamp.tirol)
+- <img src="assets/img/bitcoin.svg" alt="BitCoin" width="16" height="16"> Bitcoin: `1Kz88Erut22xptZP8vW6tm5ZH2pFWv9i4L`
+- <img src="assets/img/litecoin.svg" alt="Litecoin" width="16" height="16"> Litecoin: `LNKP4XvL9mj33HHpFvLxEAWUckAV7FHs9s`
+- <img src="assets/img/ethereum.svg" alt="Ethereum" width="16" height="16"> Ethereum: `0x9Bf203BE312c8FFD8967bD908C292e3b26B3b94f`
 
 ## Prerequisites
 
