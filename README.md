@@ -92,4 +92,4 @@ Connect the Particle Photon's `D0` pin to the Roomba's *Clean* button through an
 
 If this is useful to you in any way or you end up building it yourself, you could buy me a beer! I would also appreciate build reports or photos of your cloud-connected Roombas!
 
-[![Beerpay](https://beerpay.io/darkwinternight/roomba-wifi/badge.svg?style=beer-square)](https://beerpay.io/darkwinternight/roomba-wifi)  [![Beerpay](https://beerpay.io/darkwinternight/roomba-wifi/make-wish.svg?style=flat-square)](https://beerpay.io/darkwinternight/roomba-wifi?focus=wish)
+[![Beerpay](https://beerpay.io/otherguy/roomba-wifi/badge.svg?style=beer-square)](https://beerpay.io/otherguy/roomba-wifi)  [![Beerpay](https://beerpay.io/otherguy/roomba-wifi/make-wish.svg?style=flat-square)](https://beerpay.io/otherguy/roomba-wifi?focus=wish)
