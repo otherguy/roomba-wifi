@@ -1,6 +1,5 @@
 [![Maintained: yes](https://img.shields.io/maintenance/yes/2019.svg?style=flat-square)](https://roomba-wifi.basecamp.tirol)
 [![License: MIT](https://img.shields.io/github/license/otherguy/roomba-wifi.svg?style=flat-square)](https://github.com/otherguy/roomba-wifi/blob/master/LICENSE.md)
-[![Beerpay](https://img.shields.io/beerpay/otherguy/roomba-wifi.svg?style=flat-square)](https://beerpay.io/otherguy/roomba-wifi)
 [![Issues](https://img.shields.io/github/issues/otherguy/roomba-wifi.svg?style=flat-square)](https://github.com/otherguy/roomba-wifi/issues)
 
 
@@ -87,9 +86,3 @@ For Roomba models that have no wake up input on pin 5 of the external connector,
 Connect the Particle Photon's `D0` pin to the Roomba's *Clean* button through an 8K Ω resistor.
 
 ![Roomba Clean Button](img/clean-button.png)
-
-## Support on Beerpay
-
-If this is useful to you in any way or you end up building it yourself, you could buy me a beer! I would also appreciate build reports or photos of your cloud-connected Roombas!
-
-[![Beerpay](https://beerpay.io/otherguy/roomba-wifi/badge.svg?style=beer-square)](https://beerpay.io/otherguy/roomba-wifi)  [![Beerpay](https://beerpay.io/otherguy/roomba-wifi/make-wish.svg?style=flat-square)](https://beerpay.io/otherguy/roomba-wifi?focus=wish)
